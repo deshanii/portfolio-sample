@@ -1,0 +1,17 @@
+.{
+    padding: 0;
+    margin: 0 ;
+    box-sizing: border-box;
+}
+navbar{
+    background-color: rgb(151, 143, 143);
+}
+.nav-link{
+    color: blue;
+    font-size: large;
+}
+.nav-link:hover{
+    color: white;
+    background-color: black;
+}
+
